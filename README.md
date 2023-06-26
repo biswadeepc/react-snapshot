@@ -1,0 +1,1 @@
+React-Snapshot is a react application to search and get flicker images
